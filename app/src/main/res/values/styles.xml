@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TOClient" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:colorAccent">#159B88</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+
+    <style name="Theme.TOClient.Dialog.Dark" parent="android:style/Theme.Material.Dialog.Alert">
+        <item name="android:windowBackground">@drawable/bg_dialog_glass_dark</item>
+        <item name="android:windowAnimationStyle">@style/Animation.TOClient.Dialog</item>
+        <item name="android:windowMinWidthMajor">90%</item>
+        <item name="android:windowMinWidthMinor">90%</item>
+        <item name="android:colorAccent">#39D6B5</item>
+        <item name="android:textColorPrimary">#F2F7F5</item>
+        <item name="android:textColorSecondary">#91A5A3</item>
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:backgroundDimAmount">0.58</item>
+    </style>
+
+    <style name="Theme.TOClient.Dialog.Light" parent="android:style/Theme.Material.Light.Dialog.Alert">
+        <item name="android:windowBackground">@drawable/bg_dialog_glass_light</item>
+        <item name="android:windowAnimationStyle">@style/Animation.TOClient.Dialog</item>
+        <item name="android:windowMinWidthMajor">90%</item>
+        <item name="android:windowMinWidthMinor">90%</item>
+        <item name="android:colorAccent">#087C6C</item>
+        <item name="android:textColorPrimary">#10201E</item>
+        <item name="android:textColorSecondary">#3F5753</item>
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:backgroundDimAmount">0.32</item>
+    </style>
+
+    <style name="Animation.TOClient.Dialog" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/to_dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/to_dialog_exit</item>
+    </style>
+</resources>

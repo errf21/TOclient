@@ -1,0 +1,1 @@
+-keep class com.toclient.android.vpn.ToVpnService { *; }

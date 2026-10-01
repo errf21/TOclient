@@ -1,0 +1,4 @@
+35424dbf8848090aabb3faae6cfed9a365891baa4c2d1f4f88f67295d844bbe3  tun-hev/src/main/jniLibs/arm64-v8a/libhev-socks5-tunnel.so
+2ceba5404e49d40ab80a75d0dd760b54a657303e32ef16d321df360d950ce839  tun-hev/src/main/jniLibs/armeabi-v7a/libhev-socks5-tunnel.so
+ff705194ff72e789acc282e86889259d90e583d1e3f1015e4fae0f53ab0d271e  tun-hev/src/main/jniLibs/x86/libhev-socks5-tunnel.so
+c5694101ae5df47e8f5dfbc74332bf6e229d04ab984685d384933ca777393dce  tun-hev/src/main/jniLibs/x86_64/libhev-socks5-tunnel.so

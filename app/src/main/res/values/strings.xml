@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_tile">TO Client VPN</string>
+    <string name="total_overall">Total overall</string>
+    <string name="subscription_update">Update subscription</string>
+    <string name="subscription_delete">Delete subscription</string>
+    <string name="subscription_total">Total</string>
+    <string name="subscription_used">Used</string>
+    <string name="subscription_remaining">Remaining</string>
+    <string name="subscription_time">Time</string>
+    <string name="subscription_unavailable">Unavailable</string>
+    <string name="subscription_days_remaining">%1$d days remaining</string>
+    <string name="subscription_expired">Expired</string>
+    <string name="quick_ping">Quick Ping</string>
+    <string name="ping_timeout">Timeout</string>
+    <string name="ping_connect_first">Connect a configuration before using Quick Ping.</string>
+    <string name="show_notification_traffic">Show traffic totals in notification</string>
+    <string name="show_notification_traffic_summary">Current speed and total overall</string>
+    <string name="theme_light_enabled">Light theme enabled</string>
+    <string name="theme_dark_enabled">Dark theme enabled</string>
+    <string name="settings_group">Settings</string>
+    <string name="import_menu_section">Import</string>
+    <string name="subscription_menu_section">Subscription</string>
+    <string name="import_from_clipboard">Import from clipboard</string>
+    <string name="import_from_file">Import from file</string>
+    <string name="scan_qr_code">Scan QR code</string>
+    <string name="scan_qr_image">Scan QR from image</string>
+    <string name="add_manually">Add manually (URI/Text)</string>
+    <string name="custom_config_json">Custom config (JSON)</string>
+    <string name="add_subscription">Add subscription</string>
+    <string name="manual_config_hint">Paste one supported configuration URI or text.</string>
+    <string name="custom_json_hint">Paste a supported raw Xray JSON configuration.</string>
+</resources>

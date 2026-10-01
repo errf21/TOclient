@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_current_traffic">لحظه‌ای  ↓ %1$s/ث  ↑ %2$s/ث</string>
+    <string name="notification_overall_traffic">مجموع کل  ↓ %1$s  ↑ %2$s</string>
+</resources>

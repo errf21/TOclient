@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- A focused network orbit: the O is the protected tunnel, the T is its route. -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:pathData="M54,19 A35,35 0,1 1,53.9 19"
+        android:strokeColor="#274D52"
+        android:strokeWidth="2.4" />
+    <path
+        android:fillColor="@android:color/transparent"
+        android:pathData="M54,27 A27,27 0,1 1,53.9 27"
+        android:strokeColor="#39D6B5"
+        android:strokeLineCap="round"
+        android:strokeWidth="8" />
+    <path
+        android:fillColor="#F3FFFC"
+        android:pathData="M36,33 C36,30.8 37.8,29 40,29 L68,29 C70.2,29 72,30.8 72,33 C72,35.2 70.2,37 68,37 L58,37 L58,67 C58,69.2 56.2,71 54,71 C51.8,71 50,69.2 50,67 L50,37 L40,37 C37.8,37 36,35.2 36,33 Z" />
+    <path
+        android:fillColor="#9AF4E1"
+        android:pathData="M54,75 a4.5,4.5 0,1 0,0 9 a4.5,4.5 0,1 0,0 -9" />
+    <path
+        android:fillColor="#39D6B5"
+        android:pathData="M81,51 a3.2,3.2 0,1 0,0 6.4 a3.2,3.2 0,1 0,0 -6.4" />
+</vector>

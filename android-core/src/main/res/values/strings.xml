@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_current_traffic">Current  ↓ %1$s/s  ↑ %2$s/s</string>
+    <string name="notification_overall_traffic">Overall  ↓ %1$s  ↑ %2$s</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_tile">وی‌پی‌ان TO Client</string>
+    <string name="total_overall">مجموع کل</string>
+    <string name="subscription_update">به‌روزرسانی اشتراک</string>
+    <string name="subscription_delete">حذف اشتراک</string>
+    <string name="subscription_total">کل</string>
+    <string name="subscription_used">مصرف‌شده</string>
+    <string name="subscription_remaining">باقی‌مانده</string>
+    <string name="subscription_time">زمان</string>
+    <string name="subscription_unavailable">در دسترس نیست</string>
+    <string name="subscription_days_remaining">%1$d روز باقی‌مانده</string>
+    <string name="subscription_expired">منقضی شده</string>
+    <string name="quick_ping">پینگ سریع</string>
+    <string name="ping_timeout">پایان زمان</string>
+    <string name="ping_connect_first">برای پینگ سریع ابتدا یک پیکربندی را متصل کنید.</string>
+    <string name="show_notification_traffic">نمایش مجموع ترافیک در اعلان</string>
+    <string name="show_notification_traffic_summary">سرعت لحظه‌ای و مجموع کل</string>
+    <string name="theme_light_enabled">پوسته روشن فعال شد</string>
+    <string name="theme_dark_enabled">پوسته تیره فعال شد</string>
+    <string name="settings_group">تنظیمات</string>
+    <string name="import_menu_section">درون‌ریزی</string>
+    <string name="subscription_menu_section">اشتراک</string>
+    <string name="import_from_clipboard">درون‌ریزی از کلیپ‌بورد</string>
+    <string name="import_from_file">درون‌ریزی از فایل</string>
+    <string name="scan_qr_code">اسکن کد QR</string>
+    <string name="scan_qr_image">اسکن QR از تصویر</string>
+    <string name="add_manually">افزودن دستی (URI/متن)</string>
+    <string name="custom_config_json">پیکربندی سفارشی (JSON)</string>
+    <string name="add_subscription">افزودن اشتراک</string>
+    <string name="manual_config_hint">یک URI یا متن پیکربندی پشتیبانی‌شده وارد کنید.</string>
+    <string name="custom_json_hint">یک پیکربندی خام JSON پشتیبانی‌شده برای Xray وارد کنید.</string>
+</resources>
